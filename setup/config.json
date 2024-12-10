@@ -1,0 +1,1 @@
+{"monitoring": {"interval": 5000, "alerts": {"cpu": 90, "memory": 85, "disk": 90}}}
